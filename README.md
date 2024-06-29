@@ -1,6 +1,6 @@
 [![MasterHead](https://strapi.dhiwise.com/uploads/618fa90c201104b94458e1fb_64be4f147e63445528a57d5e_Figma_Dev_Mode_Everything_You_Need_to_Know_OG_Image_830ae3699f.jpg)]
 <h1 align="center">Hi 👋, I'm Priyadarshini</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate designer and programmer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshhini&label=Profile%20views&color=0e75b6&style=flat" alt="darshhini" /> </p>
