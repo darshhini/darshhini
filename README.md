@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Figma,Git,Github**
+- 💬 Ask me about **Figma,Git,Github,PowerBi,Photoshop**
 
 - 📫 How to reach me **cspriyadarshini2310@gmail.com**
 
