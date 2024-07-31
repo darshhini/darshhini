@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshhini&label=Profile%20views&color=0e75b6&style=flat" alt="darshhini" /> </p>
 
-- 🔭 I’m currently working on **Emoji Generator**
+- 🔭 I’m currently working on **Next Generation Plant Disease Detection using Deep Learning and Gen AI**
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Figma,Git,Github,PowerBi,Photoshop**
+- 💬 Ask me about **Figma,Git,Github,PowerBi**
 
 - 📫 How to reach me **cspriyadarshini2310@gmail.com**
 
