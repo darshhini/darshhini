@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshhini&label=Profile%20views&color=0e75b6&style=flat" alt="darshhini" /> </p>
 
-- 🔭 I’m currently working on **Next Generation Plant Disease Detection using Deep Learning and Gen AI**
+- 🔭 I’m currently working on **Next Generation Plant Disease Detection and Management System using Advanced Deep Learning and Natural Language Processing**
 
 - 🌱 I’m currently learning **Java**
 
